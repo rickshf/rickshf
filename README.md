@@ -23,8 +23,6 @@ Olá! Eu sou um **Desenvolvedor de Software** apaixonado por tecnologia e inova�
 
 ---
 
----
-
 ## 📫 Contato
 
 - LinkedIn: [Henrique Almeida](www.linkedin.com/in/rickshf)
