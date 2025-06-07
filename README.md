@@ -2,6 +2,12 @@
 
 Olá! Eu sou um **Desenvolvedor de Software** apaixonado por tecnologia e inovação. Tenho experiência sólida com as tecnologias do ecossistema **JavaScript**, com ênfase em desenvolvimento **Front-end** e também atuando no **Back-end** com Node.js.
 
+<div>
+<a href="https://github.com/rickshf">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
