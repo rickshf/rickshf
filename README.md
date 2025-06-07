@@ -23,11 +23,6 @@ Olá! Eu sou um **Desenvolvedor de Software** apaixonado por tecnologia e inova�
 
 ---
 
-## 🚀 Atualmente
-
-- 📚 Aprofundando conhecimentos em **Arquitetura de Software/Engenharia de Software** e **Inteligência Artificial**
-- 🤝 Sempre aberto a colaborações e contribuições em projetos open-source!
-
 ---
 
 ## 📫 Contato
