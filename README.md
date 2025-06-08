@@ -9,10 +9,10 @@ Olá! Eu sou um **Desenvolvedor de Software** apaixonado por tecnologia e inova�
 - **Linguagens:** JavaScript (ES6+), TypeScript, HTML, CSS  
 - **Front-end:** React.js, Next.js, TailwindCSS  
 - **Back-end:** Node.js, Express.js, RESTful APIs  
-- **Banco de Dados:** MongoDB, PostgreSQL  
-- **Ferramentas e DevOps:** Git, GitHub, Docker, Vite, Webpack  
-- **Boas Práticas e Arquitetura:** SOLID, Clean Architecture, Design Patterns, DDD (Domain-Driven Design)  
-- **Metodologias:** Scrum, Kanban, Agile, Code Review, Versionamento Semântico  
+- **Banco de Dados:** SQL, PostgreSQL  
+- **Ferramentas e DevOps:** Git, GitHub, Docker, Vite  
+- **Boas Práticas e Arquitetura:** SOLID, Clean Architecture, Design Patterns
+- **Metodologias:** Scrum, Kanban, Agile, Code Review
 - **Testes e Qualidade:** Jest, Testes Unitários, Testes de Integração, ESLint, Prettier  
 
 ---
