@@ -19,7 +19,7 @@ Olá! Eu sou um **Desenvolvedor de Software** apaixonado por tecnologia e inova�
 
 ## 📫 Contato
 
-- LinkedIn: [Henrique Almeida](www.linkedin.com/in/rickshf)
+- LinkedIn: [Henrique Almeida](https://www.linkedin.com/in/rickshf/)
 - Portfólio: 
 - Email: almeidah1945@gmail.com
 
