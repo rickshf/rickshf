@@ -45,4 +45,4 @@ Olá! Eu sou um **Desenvolvedor de Software** apaixonado por tecnologia e inova�
 
 ---
 
-⭐ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e contribuir com ideias!
+⭐ Obrigado por visitar meu perfil!
