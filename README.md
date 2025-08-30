@@ -2,7 +2,7 @@
 
 Olá! Chamo-me Henrique, sou um Desenvolvedor de Software apaixonado por tecnologia e inovação. Tenho experiência sólida com as tecnologias do ecossistema **JavaScript**, com ênfase em desenvolvimento **Front-end** e também atuando no **Back-end** com **Node.js**.
 
-
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -36,7 +36,7 @@ Olá! Chamo-me Henrique, sou um Desenvolvedor de Software apaixonado por tecnolo
 
 ###
 
-
+---
 ## 📫 Contato
 
 - LinkedIn: [Henrique Almeida](https://www.linkedin.com/in/rickshf/)
