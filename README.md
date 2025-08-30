@@ -1,6 +1,6 @@
 # 👨‍💻 Sobre Mim
 
-Olá! Chamo-me Henrique sou um **Desenvolvedor de Software** apaixonado por tecnologia e inovação. Tenho experiência sólida com as tecnologias do ecossistema **JavaScript**, com ênfase em desenvolvimento **Front-end** e também atuando no **Back-end** com Node.js.
+Olá! Chamo-me Henrique, sou um Desenvolvedor de Software apaixonado por tecnologia e inovação. Tenho experiência sólida com as tecnologias do ecossistema **JavaScript**, com ênfase em desenvolvimento **Front-end** e também atuando no **Back-end** com **Node.js**.
 
 ---
 
