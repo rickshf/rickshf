@@ -29,7 +29,7 @@ Olá! Chamo-me Henrique, sou um Desenvolvedor de Software. Tenho experiência s�
 ## 📫 Contato
 
 - LinkedIn: [Henrique Almeida](https://www.linkedin.com/in/rickshf/)
-- Portfólio: <!--[rickshf](https://rickshf.github.io/)-->
+- Portfólio: [rickshf](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392513037/)
 - Email: almeidah1945@gmail.com
 
 
